@@ -1,0 +1,4 @@
+**/*.o
+bsq
+*.map
+.vscode
